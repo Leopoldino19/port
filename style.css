@@ -22,5 +22,6 @@ button {
 img {
     /* Adicionar estilos para formatar a imagem */
     width: 500px;
+    border-radius: 10px;
 }
 /* Adicionar mais estilos conforme necessário */
