@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    /* Adicionar mais estilos conforme necessário */
+}
+p {
+    color: white;
+    /* Adicionar mais estilos conforme necessário */
+}
+button {
+    background-color: #00FFFF;
+    color: white;
+    border: none;
+    width: 100px;
+    padding: 17px;
+    border-radius: 10px;
+    /* Adicionar mais estilos conforme necessário */
+}
+img {
+    /* Adicionar estilos para formatar a imagem */
+    width: 500px;
+}
+/* Adicionar mais estilos conforme necessário */
